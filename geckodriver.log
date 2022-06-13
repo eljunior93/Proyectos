@@ -1,0 +1,279 @@
+1654725004288	geckodriver	INFO	Listening on 127.0.0.1:59898
+1654725007320	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "59899" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DESARR~1\\AppData\\Local\\Temp\\rust_mozprofileOlSzNH"
+1654725008122	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:59899
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DESARR~1\\AppData\\Local\\Temp\\rust_mozprofileOlSzNH\\search.json.mozlz4", (void 0)))
+1654725010539	Marionette	INFO	Listening on port 59924
+DevTools listening on ws://localhost:59899/devtools/browser/2e993337-44e6-4d68-8f43-a1b36fc15597
+Read port: 59924
+1654725010642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+1654725032219	Marionette	INFO	Stopped listening on port 59924
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+1654725034372	geckodriver	INFO	Listening on 127.0.0.1:59988
+1654725037449	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "59989" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DESARR~1\\AppData\\Local\\Temp\\rust_mozprofilezxmXkJ"
+1654725037804	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:59989
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DESARR~1\\AppData\\Local\\Temp\\rust_mozprofilezxmXkJ\\search.json.mozlz4", (void 0)))
+1654725039929	Marionette	INFO	Listening on port 60012
+Read port: 60012
+DevTools listening on ws://localhost:59989/devtools/browser/b083a0f2-ec68-4d7b-a2cd-89a39f9cea09
+1654725039978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+[Child 1484, MediaDecoderStateMachine #1] WARNING: 20598531670 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+JavaScript warning: https://cloud.ibm.com/analytics/build/1.4.73/bluemix-analytics.min.js, line 6: unreachable code after return statement
+[Child 1484, MediaDecoderStateMachine #1] WARNING: 205a4b7e240 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+1654725084314	Marionette	INFO	Stopped listening on port 60012
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1654725084500	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 55"  data: no] Stack trace: allowAllCerts.disable()@cert.js:55
+destroy()@Session.jsm:202
+deleteSession()@WebDriverBiDi.jsm:143
+stop()@WebDriverBiDi.jsm:218
+observe()@resource://gre/modules/AsyncShutdown.jsm:575
+1654725151105	geckodriver	INFO	Listening on 127.0.0.1:60193
+1654725154169	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "60194" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DESARR~1\\AppData\\Local\\Temp\\rust_mozprofileJH8sX6"
+1654725154513	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:60194
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DESARR~1\\AppData\\Local\\Temp\\rust_mozprofileJH8sX6\\search.json.mozlz4", (void 0)))
+1654725156598	Marionette	INFO	Listening on port 60218
+DevTools listening on ws://localhost:60194/devtools/browser/aabafe18-2ce4-4f8f-bc47-4649846f098f
+Read port: 60218
+1654725156646	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+[Child 15936, MediaDecoderStateMachine #1] WARNING: 1b422108ef0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+JavaScript warning: https://cloud.ibm.com/analytics/build/1.4.73/bluemix-analytics.min.js, line 6: unreachable code after return statement
+[Child 15936, MediaDecoderStateMachine #1] WARNING: 1b4218cc240 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+1654725209182	Marionette	INFO	Stopped listening on port 60218
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1654725209460	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 55"  data: no] Stack trace: allowAllCerts.disable()@cert.js:55
+destroy()@Session.jsm:202
+deleteSession()@WebDriverBiDi.jsm:143
+stop()@WebDriverBiDi.jsm:218
+observe()@resource://gre/modules/AsyncShutdown.jsm:575
+1654725847014	geckodriver	INFO	Listening on 127.0.0.1:60769
+1654725850066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "60770" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DESARR~1\\AppData\\Local\\Temp\\rust_mozprofileGTbAik"
+1654725850458	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:60770
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DESARR~1\\AppData\\Local\\Temp\\rust_mozprofileGTbAik\\search.json.mozlz4", (void 0)))
+1654725852683	Marionette	INFO	Listening on port 60797
+DevTools listening on ws://localhost:60770/devtools/browser/fcc12600-d897-4a9d-92bf-15a1be796960
+Read port: 60797
+1654725852727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+[Child 14980, MediaDecoderStateMachine #1] WARNING: 1cc7bdda020 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+JavaScript warning: https://cloud.ibm.com/analytics/build/1.4.73/bluemix-analytics.min.js, line 6: unreachable code after return statement
+[Child 14980, MediaDecoderStateMachine #1] WARNING: 1cc7a627130 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+1654725911599	Marionette	INFO	Stopped listening on port 60797
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1654725911783	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 55"  data: no] Stack trace: allowAllCerts.disable()@cert.js:55
+destroy()@Session.jsm:202
+deleteSession()@WebDriverBiDi.jsm:143
+stop()@WebDriverBiDi.jsm:218
+observe()@resource://gre/modules/AsyncShutdown.jsm:575
+1654726070100	geckodriver	INFO	Listening on 127.0.0.1:61055
+1654726073143	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "61056" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DESARR~1\\AppData\\Local\\Temp\\rust_mozprofileRa7Q4G"
+1654726073622	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61056
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DESARR~1\\AppData\\Local\\Temp\\rust_mozprofileRa7Q4G\\search.json.mozlz4", (void 0)))
+1654726075825	Marionette	INFO	Listening on port 61080
+DevTools listening on ws://localhost:61056/devtools/browser/758438ae-a1e7-4230-9dc9-388dc77dc1eb
+Read port: 61080
+1654726075884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654726092551	Marionette	INFO	Stopped listening on port 61080
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1654726092810	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 55"  data: no] Stack trace: allowAllCerts.disable()@cert.js:55
+destroy()@Session.jsm:202
+deleteSession()@WebDriverBiDi.jsm:143
+stop()@WebDriverBiDi.jsm:218
+observe()@resource://gre/modules/AsyncShutdown.jsm:575
+1654726094312	geckodriver	INFO	Listening on 127.0.0.1:61133
+1654726164918	geckodriver	INFO	Listening on 127.0.0.1:61194
+1654726167985	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "61195" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DESARR~1\\AppData\\Local\\Temp\\rust_mozprofile596hza"
+1654726168391	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61195
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DESARR~1\\AppData\\Local\\Temp\\rust_mozprofile596hza\\search.json.mozlz4", (void 0)))
+1654726170522	Marionette	INFO	Listening on port 61220
+Read port: 61220
+1654726170613	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:61195/devtools/browser/b601cea2-1289-4405-8e70-01801402610a
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+[Child 14208, MediaDecoderStateMachine #1] WARNING: 16e0bf09010 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+JavaScript warning: https://cloud.ibm.com/analytics/build/1.4.73/bluemix-analytics.min.js, line 6: unreachable code after return statement
+1654726302676	Marionette	INFO	Stopped listening on port 61220
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1654726312595	geckodriver	INFO	Listening on 127.0.0.1:61434
+1654726382198	geckodriver	INFO	Listening on 127.0.0.1:61489
+1654726385231	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "61490" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DESARR~1\\AppData\\Local\\Temp\\rust_mozprofileOJzC2C"
+1654726385579	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61490
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DESARR~1\\AppData\\Local\\Temp\\rust_mozprofileOJzC2C\\search.json.mozlz4", (void 0)))
+1654726387754	Marionette	INFO	Listening on port 61514
+Read port: 61514
+DevTools listening on ws://localhost:61490/devtools/browser/48185835-49f8-4c4e-ae2d-a0e5367856c7
+1654726387857	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+[Child 16004, MediaDecoderStateMachine #1] WARNING: 274f3949ef0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+JavaScript warning: https://cloud.ibm.com/analytics/build/1.4.73/bluemix-analytics.min.js, line 6: unreachable code after return statement
+[Child 16004, MediaDecoderStateMachine #1] WARNING: 274f3b6ede0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:317
+1654727253161	geckodriver	INFO	Listening on 127.0.0.1:62164
+1654727256187	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "62165" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DESARR~1\\AppData\\Local\\Temp\\rust_mozprofilevYm5VB"
+1654727256584	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62165
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DESARR~1\\AppData\\Local\\Temp\\rust_mozprofilevYm5VB\\search.json.mozlz4", (void 0)))
+1654727258884	Marionette	INFO	Listening on port 62187
+Read port: 62187
+1654727258919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:62165/devtools/browser/b7059f81-ab3c-468d-ba0e-1c317d6a5c13
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654727269263	Marionette	INFO	Stopped listening on port 62187
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654727523103	geckodriver	INFO	Listening on 127.0.0.1:62399
+1654727526123	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "62400" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DESARR~1\\AppData\\Local\\Temp\\rust_mozprofileuZ26oP"
+1654727526477	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62400
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DESARR~1\\AppData\\Local\\Temp\\rust_mozprofileuZ26oP\\search.json.mozlz4", (void 0)))
+1654727528731	Marionette	INFO	Listening on port 62424
+DevTools listening on ws://localhost:62400/devtools/browser/19834b05-dfe0-4635-bdc5-da158bbd325e
+Read port: 62424
+1654727528781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654727590836	geckodriver	INFO	Listening on 127.0.0.1:62503
+1654727593904	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "62504" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DESARR~1\\AppData\\Local\\Temp\\rust_mozprofileEoIQmk"
+1654727594300	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62504
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DESARR~1\\AppData\\Local\\Temp\\rust_mozprofileEoIQmk\\search.json.mozlz4", (void 0)))
+1654727596705	Marionette	INFO	Listening on port 62527
+DevTools listening on ws://localhost:62504/devtools/browser/996ecdaa-aabd-473a-b4d1-3f92a4951667
+Read port: 62527
+1654727596794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654728889595	geckodriver	INFO	Listening on 127.0.0.1:63813
+1654728892662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "63814" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DESARR~1\\AppData\\Local\\Temp\\rust_mozprofilezmgiQa"
+1654728893085	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:63814
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DESARR~1\\AppData\\Local\\Temp\\rust_mozprofilezmgiQa\\search.json.mozlz4", (void 0)))
+1654728895313	Marionette	INFO	Listening on port 63837
+DevTools listening on ws://localhost:63814/devtools/browser/6e5b018e-a2ad-4d41-80b6-aa4a14b51e9e
+Read port: 63837
+1654728895421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654728995080	geckodriver	INFO	Listening on 127.0.0.1:63946
+1654728998142	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "63947" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DESARR~1\\AppData\\Local\\Temp\\rust_mozprofilekb67jA"
+1654728998526	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:63947
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DESARR~1\\AppData\\Local\\Temp\\rust_mozprofilekb67jA\\search.json.mozlz4", (void 0)))
+1654729001002	Marionette	INFO	Listening on port 63970
+DevTools listening on ws://localhost:63947/devtools/browser/50aa605d-edf7-4320-9639-062479a8354f
+Read port: 63970
+1654729001078	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://srienlinea.sri.gob.ec"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654729021758	Marionette	INFO	Stopped listening on port 63970
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1654729022137	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 55"  data: no] Stack trace: allowAllCerts.disable()@cert.js:55
+destroy()@Session.jsm:202
+deleteSession()@WebDriverBiDi.jsm:143
+stop()@WebDriverBiDi.jsm:218
+observe()@resource://gre/modules/AsyncShutdown.jsm:575
